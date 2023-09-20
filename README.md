@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YasinMakandar
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in AI/ML, Data Science.
 - 🌱 I’m currently learning B.Tech CS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta-Yasinmakandar03
 
 <!---
